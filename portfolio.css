@@ -1,0 +1,98 @@
+body{
+    color: white;
+    background: linear-gradient(to right, #000046, #1cb5e0);
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    color: white;
+    background: linear-gradient(to right, #1565C0, #b92b27);
+    border-radius: .3rem;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border: white;
+}
+.todo{
+    padding-bottom: 90px;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.todos{
+    background: linear-gradient(to right, #43c6ac, #191654);
+}
+.youtube{
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 60px;
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.pics{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    border: 2px solid white;
+}
+#thu{
+    text-align: center;
+    margin-top: 60px;
+}
+#rt{
+    text-align: center;
+}
+
+.nodo{
+    background: linear-gradient(to right, #42275a, #734b6d);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 40px;
+   padding-left: 300px;
+   padding-right: 300px;
+}
+.btn-light{
+    margin-top: 55px;
+}
+footer{
+    background: linear-gradient(to right, #4ca1af, #c4e0e5);
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.fa-linkedin{
+    margin-right: 25px;
+    padding-left: 25px;
+}
+.fa-facebook{
+    margin-left: 25px;
+    padding-right: 25px;
+}
+.footer{
+    padding-top: 30px;
+}
+p{
+    font-size: 20px;
+}
+#hit{
+    margin-right: 50px;
+}
+h1{
+    font-family: 'Satisfy', cursive;
+    text-decoration: underline;
+}
+h4{
+    font-family: 'Kaushan Script', cursive;
+    text-decoration: underline;
+}
